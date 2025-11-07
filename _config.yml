@@ -16,9 +16,9 @@
 title: PHY 432
 tagline: Computational Methods in Physics
 description: A class at Arizona State University for learning how to use Python (and some software engineering) to solve problems in physics. 
-author: Oliver Beckstein
+author: Arunima Singh
 baseurl: '/PHY432' # the subpath of your site, e.g. /blog
-url: 'https://py4phy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://pyforphy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -37,12 +37,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Canvas (Spring 2025):
-    - 'https://asu.instructure.com/courses/213596'
+  Canvas (Spring 2026):
+    - 'https://asu.instructure.com/courses/238717'
   Discord:
     - 'https://discord.com/channels/1327758612155859077'
-  Py4Phy:
-    - 'https://github.com/Py4Phy'
+  PyforPhy:
+    - 'https://github.com/PyforPhy'
   ASU Physics:
     - 'https://physics.asu.edu'
 footer_content:
@@ -93,9 +93,9 @@ plugins_dir:
 
 # About/contact
 author:
-  name:              'Oliver Beckstein'
-  url:               https://becksteinlab.physics.asu.edu/people/11/oliver-beckstein
-  email:             oliver.beckstein@asu.edu
+  name:              'Arunima Singh'
+  url:               https://search.asu.edu/profile/3323915
+  email:             arunimasingh@asu.edu
 
 # use as {{site.baseurl}}/{{site.data}}
 data:                "assets/data"
@@ -111,27 +111,27 @@ course:
 
 canvas:
  name:               "Canvas (ASU PHY432 Spring 2025)"
- url:                https://asu.instructure.com/courses/213596
+ url:                https://asu.instructure.com/courses/238717
 
 resources:
- name:               Py4Phy/PHY432-resources
+ name:               PyforPhy/PHY432-resources
  shortname:          PHY432-resources
- url:                https://github.com/Py4Phy/PHY432-resources
- fileurl:            https://github.com/Py4Phy/PHY432-resources/blob/main
- giturl:             https://github.com/Py4Phy/PHY432-resources.git
- rawurl:             https://github.com/Py4Phy/PHY432-resources/raw/main
+ url:                https://github.com/PyforPhy/PHY432-resources
+ fileurl:            https://github.com/PyforPhy/PHY432-resources/blob/main
+ giturl:             https://github.com/PyforPhy/PHY432-resources.git
+ rawurl:             https://github.com/PyforPhy/PHY432-resources/raw/main
 
 org:
- name:               Py4Phy
+ name:               PyforPhy
  shortname:          GitHub site
- url:                https://github.com/Py4Phy
+ url:                https://github.com/PyforPhy
 
 wiki:
  name:               ASU Comp Phys PHY432 Wiki
  shortname:          Wiki
- url:                https://github.com/Py4Phy/PHY432-resources/wiki
+ url:                https://github.com/PyforPhy/PHY432-resources/wiki
 
 nbviewer:
    show:             https://nbviewer.jupyter.org/github
-   resources:        https://nbviewer.jupyter.org/github/Py4Phy/PHY432-resources/blob/main
-   slides:           https://nbviewer.jupyter.org/format/slides/github/Py4Phy/PHY432-resources/blob/main
+   resources:        https://nbviewer.jupyter.org/github/PyforPhy/PHY432-resources/blob/main
+   slides:           https://nbviewer.jupyter.org/format/slides/github/PyforPhy/PHY432-resources/blob/main
