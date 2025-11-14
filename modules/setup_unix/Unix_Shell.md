@@ -209,7 +209,7 @@ which shows `/home/dvader`.
   
   and hit enter. Note the directory name: this is your home directory.
   
-* share your home directory name (show your neighbor or copy and paste into the chat)
+* share your home directory name (show your neighbor)
 
 
 #### Listing file system contents: `ls` ####
@@ -231,7 +231,7 @@ data
   ls
   {% endhighlight %}
 
-* Compare the files that you see with those of your neighbor (show or copy and paste into the chat)
+* Compare the files that you see with those of your neighbor
 
 
 #### Moving around the file system: `cd` ####
