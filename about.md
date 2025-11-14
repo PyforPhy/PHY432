@@ -64,7 +64,7 @@ The two **recommended books** for the class are
 
 1. [Computational Modeling and Visualization of Physical Systems with Python](https://www.wiley.com/en-us/Computational+Modeling+and+Visualization+of+Physical+Systems+with+Python%2C+1st+Edition-p-9781119179184),
    Jay Wang (2016) Wiley-VCH. ISBN: 978-1-119-17918-4 
-2. [Computational Physics: Problem Solving with Python, 3rd Edition]([http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527413154.html](https://www.wiley.com/en-us/Computational+Physics%3A+Problem+Solving+with+Python%2C+3rd+Edition-p-9783527684694)),
+2. [Computational Physics: Problem Solving with Python, 3rd Edition](https://www.wiley.com/en-us/Computational+Physics%3A+Problem+Solving+with+Python%2C+3rd+Edition-p-9783527684694),
    Rubin H. Landau, Manuel J. Páez, Cristian C. Bordeianu. (2015)
    Wiley-VCH. ISBN: 978-3-527-68469-4
 
