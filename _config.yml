@@ -107,10 +107,10 @@ docs:                "assets/docs"
 siteresources:       "assets/resources"
 
 course:
- url:                "https://becksteinlab.physics.asu.edu/learning/146/phy432-computational-physics"
+ url:                "https://asu.instructure.com/courses/238717"
 
 canvas:
- name:               "Canvas (ASU PHY432 Spring 2025)"
+ name:               "Canvas (ASU PHY432 Spring 2026)"
  url:                https://asu.instructure.com/courses/238717
 
 resources:
