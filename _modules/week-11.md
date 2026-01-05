@@ -1,7 +1,7 @@
 ---
 title: Partial Differential Equations
 ---
-
+<!--
 Mar 27
 : [introduction to PDEs]({{ site.baseurl }}{% link
   modules/PDEs/PDEs.md %})
@@ -37,3 +37,4 @@ April 22
 : [Wave equation 2D]({{ site.baseurl }}{% link
   modules/PDEs/PDEs_waves.md %})
   : Courant condition; solving the wave equation for a membrane
+  -->
