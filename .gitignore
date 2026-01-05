@@ -14,5 +14,5 @@ _config-devel.yml
 Gemfile.local
 Gemfile.remote
 .DS_Store
-._modules/week-99.md
-week-99.md
+._modules/week-01.md
+week-01.md
