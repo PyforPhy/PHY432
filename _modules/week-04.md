@@ -2,7 +2,7 @@
 title: Fundamental Python Packages for Science
 ---
 
-
+<!--
 
 Feb 4
 : [Jupyter]({{ site.baseurl }}{% link
@@ -24,3 +24,5 @@ Feb 11
   modules/scientific_python/stochastic_dynamics.md %})
   : `numpy` and `matplotlib` in action: analyzing ensembles of
     stochastic trajectories
+
+      -->
