@@ -7,7 +7,7 @@ description: A feed containing all of the class announcements.
 
 # Announcements
 
-Please also check Canvas for class announcements.
+Please check Canvas for class announcements.
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
