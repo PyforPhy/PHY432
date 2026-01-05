@@ -1,7 +1,7 @@
 ---
 title: Solving Ordinary Differential Equations
 ---
-
+<!--
 Feb 18
 : [differentiation]({{ site.baseurl }}{% link modules/ODEs/differentiation.md %})
   : numerical differentiation
@@ -22,3 +22,5 @@ Feb 27, March 4
 March 4
 : Theory of symplectic integration
   : Hamilton's equation of motion, energy conservation, and why the semi-implicit Euler algorithm conserves energy
+
+    -->
