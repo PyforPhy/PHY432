@@ -1,7 +1,7 @@
 ---
 title: Final Project
 ---
-
+<!--
 April 3
 : Final Project Overview
   : Introduction to the *Final Project*: time line, proposal, pitches
@@ -24,4 +24,4 @@ May 5
 May 6 -- May 8
 : Q&A
   : virtual Q&A with each team
-  
+    -->
