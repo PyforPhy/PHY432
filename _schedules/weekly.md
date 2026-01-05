@@ -25,9 +25,9 @@ schedule:
   - name: Thursday
     events:
       - name: Office Hours (Instructor)
-        start: 11:00 AM
-        end: 12:00 PM
-        location: Zoom or PSF 348
+        start: 11:30 AM
+        end: 12:30 PM
+        location: Zoom (https://asu.zoom.us/j/81155368804?jst=2) or PSF 340
       - name: Lecture
         start: 1:30 PM
         end: 2:45 PM
