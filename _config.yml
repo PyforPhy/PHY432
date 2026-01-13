@@ -41,6 +41,8 @@ aux_links:
     - 'https://asu.instructure.com/courses/238717'
   PyforPhy:
     - 'https://github.com/PyforPhy'
+  Discord:
+    - 'https://discord.gg/MzvTBgnTEk'
   ASU Physics:
     - 'https://physics.asu.edu'
 footer_content:
