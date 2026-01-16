@@ -657,10 +657,7 @@ For the class we will use git and GitHub in multiple ways:
 [GitHub](https://github.com) is a provider for remote repositories. It
 enables you to easily contribute to other projects. This includes
 
-* filing bug reports or feature requests (*raising issues*); for
-  instance, if you do not agree with some of the Star Wars data from
-  the previous lessons, raise an issue in the
-  [issue tracker for the PHY494-auxilliary repository](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-auxilliary/issues).
+* filing bug reports or feature requests (*raising issues*)
 * proposing to add your own code and changes through
   *[pull requests](https://help.github.com/articles/using-pull-requests/)*
   (but this is too advanced for a our short introduction today --- see
