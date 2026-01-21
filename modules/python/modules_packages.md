@@ -149,7 +149,7 @@ Other packages that we are going to use
 
 * [numpy](https://www.numpy.org/)
 * [matplotlib](https://matplotlib.org/)
-* [scipy](https://www.scipy.org/scipylib/index.html)
+* [scipy](https://scipy.org/)
 
 ### <span class="label" style="background: black">Activity</span> Explore the Standard Library
 
