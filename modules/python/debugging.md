@@ -9,7 +9,7 @@ Code contains errors (also known as
 the first "bug" was a *moth* stuck in an electromechanical relay of the
 Mark II computer).
 
-![The first bug: A page from the Harvard Mark II electromechanical computer's log, featuring a dead moth that was removed from the device. Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988. - U.S. Naval Historical. (Image is in the Public Domain)](https://upload.wikimedia.org/wikipedia/commons/f/ff/First_Computer_Bug%2C_1945.jpg)
+#![The first bug: A page from the Harvard Mark II electromechanical computer's log, featuring a dead moth that was removed from the device. Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988. - U.S. Naval Historical. (Image is in the Public Domain)](https://upload.wikimedia.org/wikipedia/commons/f/ff/First_Computer_Bug%2C_1945.jpg)
 
 <details open markdown="block">
   <summary>
