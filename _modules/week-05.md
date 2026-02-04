@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of numerical computations
 ---
-<!--
+
 
 Feb 10
 : [numbers]({{ site.baseurl }}{% link
@@ -12,4 +12,4 @@ Feb 12
 : [errors]({{ site.baseurl }}{% link modules/fundamentals/errors.md %})
   : systematic and round-off errors, error analysis of numerical algorithms
 
-  -->
+
