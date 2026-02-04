@@ -102,12 +102,3 @@ Follow the link provided on Canvas to set up your repository.
      and a notebook
      [Perils_of_Floating_Point.ipynb]({{site.nbviewer.resources}}/07_numbers/Perils_of_Floating_Point.ipynb)
      based on that article.
-<!--
-[^5]:
-
-     The problem can be found in the public repository [{{ site.org.url
-     }}/Activity_05_numbers_sine_series]({{ site.org.url
-     }}/Activity_05_numbers_sine_series) — you are welcome to fork it
-	 and work on it: as soon as you push your work to GitHub, the
-	 autograder will run for you.
-	 -->
