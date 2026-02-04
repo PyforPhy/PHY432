@@ -48,7 +48,7 @@ more terms when the change in the result is below machine
 precision. We will analyze the error in our implementation and think
 about ways to decrease it.
 
-Follow the link provided on Canvas to set up your repository.#[^5]
+Follow the link provided on Canvas to set up your repository. <!-- [^5] --> 
 
 
 
