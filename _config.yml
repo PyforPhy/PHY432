@@ -133,5 +133,5 @@ wiki:
 
 nbviewer:
    show:             https://nbviewer.jupyter.org/github
-   resources:        https://nbviewer.jupyter.org/github/PyforPhy/PHY432-resources/
-   slides:           https://nbviewer.jupyter.org/format/slides/github/PyforPhy/PHY432-resources/
+   resources:        https://nbviewer.jupyter.org/github/PyforPhy/PHY432-resources/blob/main
+   slides:           https://nbviewer.jupyter.org/format/slides/github/PyforPhy/PHY432-resources/blob/main
