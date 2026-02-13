@@ -33,8 +33,6 @@ numerical (floating point representation) errors limit the achievable accuracy.
 ## Additional resources
 
 * _Computational Physics_: Ch 5.1 -- 5.6
-* If you are interested in *integration* then see
-  [the lectures on integration in 2016](https://asu-compmethodsphysics-phy494.github.io/ASU-PHY494-2016/2016/02/09/07_Integration/).
 
 
 
