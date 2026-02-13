@@ -22,4 +22,3 @@ March 5
 : Theory of symplectic integration
   : Hamilton's equation of motion, energy conservation, and why the semi-implicit Euler algorithm conserves energy
 
-    -->
