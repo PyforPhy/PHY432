@@ -16,11 +16,11 @@ Feb 24
   : Formalism for solving ODEs: the *standard form* of ODEs.
 
 
-Feb 26, March 3
+Feb 26, Mar 3
 : [Integrators]({{ site.baseurl }}{% link modules/ODEs/integrators.md %})
   : basic algorithms (Euler, Runge-Kutta, Verlet) for numerically integrating coupled ODEs
 
-March 5
+Mar 5
 : Theory of symplectic integration
   : Hamilton's equation of motion, energy conservation, and why the semi-implicit Euler algorithm conserves energy
 
