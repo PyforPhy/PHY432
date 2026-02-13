@@ -102,8 +102,7 @@ In class we developed a simple simulation for free fall and for the
 bouncing ball.
 
 * [bounce_ball_numpy.ipynb]({{ site.nbviewer.resources }}/10_ODEs/bounce_ball_numpy.ipynb):
-  simulation and graphing with [matplotlib]({% link
-  modules/scientific_python/matplotlib.md %})
+  simulation and graphing with matplotlib
 
 
 
