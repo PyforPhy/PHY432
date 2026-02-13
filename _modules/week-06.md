@@ -4,8 +4,6 @@ title: Solving Ordinary Differential Equations
 Feb 17
 : [errors]({{ site.baseurl }}{% link modules/fundamentals/errors.md %})
   : systematic and round-off errors, error analysis of numerical algorithms
-
-Feb 17
 : [differentiation]({{ site.baseurl }}{% link modules/ODEs/differentiation.md %})
   : numerical differentiation
 
