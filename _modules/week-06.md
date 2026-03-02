@@ -21,6 +21,13 @@ Feb 26, Mar 3
   : basic algorithms (Euler, Runge-Kutta, Verlet) for numerically integrating coupled ODEs
 
 Mar 5
+: [projectile with air resistance]({{ site.baseurl }}{% link modules/ODEs/linear_air_resistance.md %})
+  : trajectory of a projectile with *linear* air resistance
+
+<!--
+
+Mar 5
 : Theory of symplectic integration
   : Hamilton's equation of motion, energy conservation, and why the semi-implicit Euler algorithm conserves energy
 
+-->
