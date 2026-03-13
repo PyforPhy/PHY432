@@ -73,12 +73,9 @@ The **equations of motions** are then
 
 
 
-The baseball problem was live-coded from scratch during class and the
-notebook
-[baseball_solution.ipynb]({{ site.nbviewer.resources }}/11_ODE_applications/baseball_solution.ipynb)[^2]
-is a cleaned-up and commented solution. The lesson showed how
+The lesson showed how
 
-1. to define the physical problem (obtain trajectory of a baseball
+1. to define the physical problem (obtain the trajectory of a baseball
    with spin and air resistance)
 2. to derive the underlying equations (Newton's equations of motions
    and the forces acting on the ball)
