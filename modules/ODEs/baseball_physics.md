@@ -17,8 +17,7 @@ After implementing a number of
 ## Baseball physics
 
 The major forces acting on a flying baseball are drag (friction due to
-air resistance) (see also [11-ODE-baseball.ipynb]({{
-site.nbviewer.resources }}/11_ODE_applications/11-ODE-baseball.ipynb?flush_cache=true)):
+air resistance) (see also 11-ODE-baseball.ipynb)
 
 $$
 \mathbf{F}_2 = -b_2 v \mathbf{v}
