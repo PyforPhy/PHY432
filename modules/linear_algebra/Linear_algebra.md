@@ -109,8 +109,6 @@ full solution can be found in 13_linear_algebra/13_String_Problem.ipynb.
 
 * _Computational Physics_: Chapter **6**
 * [13_linear_algebra notebook (PDF)]({{ site.resources.fileurl }}/13_linear_algebra/13_linear_algebra.pdf)
-* [Lecture notes for the 1 rod/2 masses/3 strings problem (PDF)]({{
-  site.resources.fileurl }}/13_linear_algebra/13_String_Problem_lecture_notes.pdf) and [solution for the problem (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/13_linear_algebra/13_String_Problem.pdf)
 * _[Numerical Recipes in C](http://apps.nrbook.com/c/index.html)_, WH
   Press, SA Teukolsky, WT Vetterling, BP Flannery. 2nd
   ed, 2002. Cambridge University Press. Chapter **2**.
