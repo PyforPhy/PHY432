@@ -43,6 +43,12 @@ superpositions of these eigenmodes, will also not grow in time and are
 therefore stable.
 
 ## Class material
+  * Leap-frog method for the heat equation and von Neumann stability
+    analysis:
+    [15_PDEs-Students.ipynb]({{ site.nbviewer.resources }}/15_PDEs/15_PDEs-Students.ipynb)
+    
+<!-- 
+## Class material
 
 * Student notebooks [^1]
   * Leap-frog method for the heat equation and von Neumann stability
@@ -67,6 +73,8 @@ therefore stable.
   * [15_CrankNicholson.ipynb]({{ site.nbviewer.resources }}/15_PDEs/15_CrankNicholson.ipynb)
     and [derivation of the Crank-Nicholson algorithm (PDF)]({{
     site.resources.fileurl }}/15_PDEs/15_PDEs_stability_CrankNicholson.pdf)
+
+    -->
 
 #### Additional resources  ####
 
