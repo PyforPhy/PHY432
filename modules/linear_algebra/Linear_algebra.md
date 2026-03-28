@@ -93,9 +93,7 @@ $$
 
 ## Class material
 
-The Jupyter notebook [13_Linear_Algebra.ipynb]({{
-site.nbviewer.resources }}/13_linear_algebra/13_Linear_Algebra.ipynb) contains the
-(life-coded) lecture notes on **basic linear algebra**. Skeleton code for in-class exercises can
+Skeleton code for in-class exercises can
 be found in [13_Linear_Algebra-students-1.ipynb]({{
 site.nbviewer.resources }}/13_linear_algebra/13_Linear_Algebra-students-1.ipynb).[^4]
 
