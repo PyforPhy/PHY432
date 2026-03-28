@@ -1,12 +1,14 @@
 ---
 title: Partial Differential Equations
 ---
-<!--
-Mar 27
+
+April 7
 : [introduction to PDEs]({{ site.baseurl }}{% link
   modules/PDEs/PDEs.md %})
   : types of PDEs; simple algorithm to solve Laplace's equation
-  
+
+<!--
+
 April 1
 : [Poisson's equation]({{ site.baseurl }}{% link
   modules/PDEs/PDEs_hyperbolic.md %})
