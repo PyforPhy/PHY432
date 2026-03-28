@@ -102,8 +102,7 @@ site.nbviewer.resources }}/13_linear_algebra/13_Linear_Algebra-students-1.ipynb)
 To get started on the **1 rod/2 masses/3 strings problem** work with the
 notebook
 [13_String_Problem-Students.ipynb]({{ site.nbviewer.resources }}/13_linear_algebra/13_String_Problem-Students-1.ipynb). The
-full solution can be found in [13_String_Problem.ipynb]({{
-site.nbviewer.resources }}/13_linear_algebra/13_String_Problem.ipynb).
+full solution can be found in 13_linear_algebra/13_String_Problem.ipynb.
 
 
 #### Additional resources:
