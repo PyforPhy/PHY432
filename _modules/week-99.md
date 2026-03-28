@@ -15,10 +15,8 @@ May 4
   : submit your project abstract
   
 May 5
-: presentations
+: presentations & code
   : submit your project presentation video
-
-: code
   : submit your project code to your repository
   
 May 6 -- May 8
