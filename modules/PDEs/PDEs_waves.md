@@ -22210,10 +22210,12 @@ In the 2D case, the Courant condition is $$c \le \frac{1}{\sqrt{2}}
 * Student notebook: [^1]: Leap-frog method for the wave equation and von Neumann stability
     analysis: [16_PDEs_waves-students.ipynb]({{
     site.nbviewer.resources }}/16_PDEs_waves/16_PDEs_waves-students.ipynb)
+<!--
 * Lecture notebooks [^2] (correspond to the student
   notebooks):[16_PDEs_waves.ipynb]({{ site.nbviewer.resources }}/16_PDEs_waves/16_PDEs_waves.ipynb).
 * Lecture notebook for 2D waves: [16_PDEs_2D_waves.ipynb]({{
   site.nbviewer.resources }}/16_PDEs_waves/16_PDEs_2D_waves.ipynb)
+  -->
 
 
 #### Additional resources  ####
