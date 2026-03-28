@@ -1,8 +1,7 @@
 ---
 title: "Linear algebra"
 ---
-
-March 25
+March 28
 : [linear algebra]({{ site.baseurl }}{% link modules/linear_algebra/Linear_algebra.md %})
   : solving standard linear algebra problems (matrix equations,
     eigenvalues) with *numpy*
