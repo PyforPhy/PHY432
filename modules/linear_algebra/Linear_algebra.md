@@ -108,7 +108,6 @@ full solution can be found in 13_linear_algebra/13_String_Problem.ipynb.
 #### Additional resources:
 
 * _Computational Physics_: Chapter **6**
-* [13_linear_algebra notebook (PDF)]({{ site.resources.fileurl }}/13_linear_algebra/13_linear_algebra.pdf)
 * _[Numerical Recipes in C](http://apps.nrbook.com/c/index.html)_, WH
   Press, SA Teukolsky, WT Vetterling, BP Flannery. 2nd
   ed, 2002. Cambridge University Press. Chapter **2**.
