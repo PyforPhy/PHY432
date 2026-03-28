@@ -1,16 +1,16 @@
 ---
 title: Final Project
 ---
-<!--
-April 3
+
+April 2
 : Final Project Overview
   : Introduction to the *Final Project*: time line, proposal, pitches
 
-April 8
+April 9
 : Project pitches
   : Present your project to the class and gather a team.
   
-May 3
+May 4
 : abstracts
   : submit your project abstract
   
@@ -24,4 +24,4 @@ May 5
 May 6 -- May 8
 : Q&A
   : virtual Q&A with each team
-    -->
+
