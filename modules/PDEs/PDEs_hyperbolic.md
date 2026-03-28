@@ -105,7 +105,7 @@ assets/movies/dipole_wire_SOR_3d.mov %}" />
 
 
 ## Class material
-
+<!-- 
 1. [14_PDEs-1.ipynb]({{ site.nbviewer.resources }}/14_PDEs/14_PDEs-1.ipynb):
    Poisson's and Laplace's equation: Background
    ([board notes on PDEs (PDF)]({{ site.resources.fileurl }}/14_PDEs/14_PDEs-1-LectureNotes.pdf)),
@@ -129,8 +129,11 @@ assets/movies/dipole_wire_SOR_3d.mov %}" />
    vectors"---most users find this function mystifying. The notebook
    [meshgrid.ipynb]({{ site.nbviewer.resources }}/14_PDEs/meshgrid.ipynb)
    makes a bit clearer, _what_ `meshgrid` does and why it is useful.
+-->
 
+1. [14_PDEs-1-Students.ipynb]({{ site.nbviewer.resources }}/14_PDEs/14_PDEs-1-Students.ipynb) [^1]
 
+   
 #### Additional resources  ####
 
 * _Computational Physics_, Ch **19--23**
