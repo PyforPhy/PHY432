@@ -6,6 +6,9 @@ March 28
   : solving standard linear algebra problems (matrix equations,
     eigenvalues) with *numpy*
 
+April 2
+: final project overview
+
 <!--
 optional
 : [SVD]({{ site.baseurl }}{% link modules/linear_algebra/SVD.md %})
