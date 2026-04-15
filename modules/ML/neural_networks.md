@@ -17,12 +17,6 @@ By the end of this lesson you should be able to
 * describe the role of ReLU and sigmoid activation functions in a two-layer network;
 * outline how backpropagation uses the chain rule to compute gradients layer by layer.
 
-## Resources
-
-| Type | Link |
-|------|------|
-| Notebook | [17_ML_neural_networks.ipynb]({{ site.baseurl }}{% link modules/ML/17_ML_neural_networks.ipynb %}) |
-
 ## Background
 
 ### Classification
