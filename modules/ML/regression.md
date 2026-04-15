@@ -15,12 +15,6 @@ By the end of this lesson you should be able to
 * code gradient descent from scratch and use it to train a linear model;
 * recognise underfitting and overfitting from training and test error curves.
 
-## Resources
-
-| Type | Link |
-|------|------|
-| Notebook | [17_ML_introduction.ipynb]({{ site.baseurl }}{% link modules/ML/17_ML_introduction.ipynb %}) |
-
 ## Background
 
 ### Supervised learning as model fitting
