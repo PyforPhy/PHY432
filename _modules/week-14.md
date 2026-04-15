@@ -3,7 +3,7 @@ title: Machine Learning
 ---
 
 April 28
-: [Regression & Gradient Descent]({{ site.baseurl }}{% link modules/ML/regression.md %})
+: [Regression & Gradient Descent ]({{ site.baseurl }}{% link modules/ML/regression.md %})
   : linear models, error metrics, overfitting vs underfitting
 
 April 30
