@@ -1,14 +1,11 @@
 ---
-title: Monte Carlo methods
+title: Machine Learning
 ---
-<!--
-April 25
-: [Monte Carlo integration]({{ site.baseurl }}{% link
-  modules/MC/integration.md %})
-  : high dimensional integrals with uniform and importance sampling
-  
-April 29
-: [Markov Chain Monte Carlo simulations]({{ site.baseurl }}{% link
-  modules/MC/mcmc.md %})
-  : 1D and 2D Ising model for a ferromagnet
-  -->
+
+April 28
+: [Regression & Gradient Descent]({{ site.baseurl }}{% link modules/ML/regression.md %})
+  : linear models, error metrics, overfitting vs underfitting
+
+April 30
+: [Neural Networks & Classification]({{ site.baseurl }}{% link modules/ML/neural_networks.md %})
+  : signal vs background, confusion matrix, neural networks
